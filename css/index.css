@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.sence{
+	width: 600px;
+	height:600px;
+	background: #000;
+	margin: 20px auto;
+	border-top: 1px solid #000;
+	border-left: 1px solid #000;
+}
+.block{
+	width: 29px;
+	height: 29px;
+	background: #fff;
+	margin-right: 1px;
+	margin-bottom: 1px;
+	float: left;
+
+}
+.hot{
+	background: #00c0a5!important;    
+}
+/* 优先级最高 */
